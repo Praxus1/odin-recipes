@@ -1,0 +1,1 @@
+This is my first actual project and it seems a bit overwhelming. I don't yet have a fluent grasp of the commands I'll need to use. While I want to learn how to do everything on the command line, but it's still pretty ambiguous in my mind. More practice is necessary!
